@@ -135,5 +135,8 @@
 			"Name": "AudioModulation",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
